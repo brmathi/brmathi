@@ -1,5 +1,5 @@
 
-<img src="./assets/imgWallp.jpg" alt="Banner" width="840" height="100%" />
+<img src="./assets/imgWallp.jpg" alt="Banner" width="1090" height="100%" />
 
 <h1 align="center">Hey, I'm Bruna Mathias ✨</h1>
 
