@@ -1,7 +1,7 @@
 
-<img src="./assets/imgWallpR.jpg" alt="Banner" width="1090" height="100%" />
+<img src="./assets/imgWallpR.xfc" alt="Banner" width="1090" height="100%" />
 
-<h1 align="center">Hey, I'm Bruna Mathias ✨</h1>
+<h1 align="center">Hey, I'm Bruna Mathias </h1>
 
 <h3 align="center">
   Information Systems Student • Data Science Intern • Tech Explorer
